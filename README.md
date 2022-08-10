@@ -6,5 +6,6 @@ I am tired without snippets. Let's collect some useful snippets here
 **TLDR:** File > Preferences > Configure User Snippets
 
 [Documentation](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+[TSX doesn't supported](https://github.com/Microsoft/vscode/issues/62521)
 
 
